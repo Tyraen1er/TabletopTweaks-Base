@@ -29,7 +29,7 @@
       "enGB": "Add +2 to the DC for the effects you deliver with your Stunning Fist.",
       "ruRU": "Увеличьте на 2 сложность эффектов, вызываемых способностью Шокирующий кулак.",
       "deDE": null,
-      "frFR": "Augmente de +2 le DD pour les effets appliqués par Coup Étourdissant",
+      "frFR": "Ajoute +2 au DD des effets appliqués par son Coup étourdissant",
       "zhCN": "你的震慑拳造成的效果的豁免难度等级（DC）+2。",
       "esES": null
     },
@@ -73,7 +73,7 @@
       "enGB": "You've leaned a way to increase the number of bombs you can use in a day.\nBenefit: You can throw a number of additional bombs per day equal to twice your mythic rank.",
       "ruRU": "Вы нашли способ увеличить количество бомб, которые вы можете использовать за день.\nПреимущество: Каждый день вы можете дополнительно бросить бомбы в количестве равному вашему удвоенному мифическому уровню.",
       "deDE": null,
-      "frFR": "Le personnage sait comment augmenter le nombre d'utilisations quotidiennes de bombes.\nAvantage : chaque jour, il peut lancer un nombre de bombe supplémentaires égal à deux fois son grade mythique.",
+      "frFR": "Le personnage sait comment augmenter le nombre d'utilisations quotidiennes de bombes.\nAvantage : chaque jour, il peut lancer un nombre de bombes supplémentaires égal à deux fois son grade mythique.",
       "zhCN": "你学会了增加炼金炸弹使用次数的方法。\n效果：你每日的炼金炸弹投掷次数增加等同于你神话阶层的两倍的数量。",
       "esES": null
     },
@@ -403,7 +403,7 @@
       "enGB": "At 20th level, the slayer is used to fighting when the numbers are not in his favor.\nWhen the slayer uses studied target, he can study up to two additional foes within 30 feet in the same action.",
       "ruRU": "На 20 уровне палач привык сражаться, когда численность не в его пользу.\nКогда убийца применяет способность Изучить цель, он может изучить до двух дополнительных противников в пределах 30 футов за одно и то же действие.",
       "deDE": null,
-      "frFR": "Au niveau 20, le tueur est habitué à combattre en infériorité numérique.\nQuand le tueur utilise Cible étudiée, il peut cibler jusqu'à deux cibles supplémentaire dans les 30 pieds avec la même action.",
+      "frFR": "Au niveau 20, le tueur est habitué à combattre en infériorité numérique.\nQuand le tueur utilise Cible étudiée, il peut cibler jusqu'à deux cibles supplémentaires dans un rayon de 9 mètres (30 pieds) par la même action.",
       "zhCN": "20级时，杀手习惯了以少敌多的战局。\n当杀手使用研究目标时，他可以同时研究30尺内的至多两个额外敌人。",
       "esES": null
     },
@@ -469,7 +469,7 @@
       "enGB": "You ignore the physical detriments of age. This spell does not cause you to look younger, nor does it prevent you from dying of old age, but as long as the spell is in effect, you ignore the –6 penalties to Strength, Dexterity, and Constitution that accrue once you become venerable. You retain the age-related bonuses to Intelligence, Wisdom, and Charisma while under the effects of this spell.",
       "ruRU": "Вы игнорируете физические недостатки старения. Это заклинание не заставляет вас выглядеть моложе и не предотвращает смерть от старости, но пока действует заклинание, вы игнорируете штрафы -6 к Силе, Ловкости и Выносливости, которые начисляются, когда вы стареете. Под действием этого заклинания вы сохраняете бонусы к Интеллекту, Мудрости и Харизме.",
       "deDE": null,
-      "frFR": "La cible ignore les pénalités physiques dues à l'âge. Ce sort ne lui donne pas l'air plus jeune et ne l'empêche pas non plus de mourir de vieillesse, mais tant que le sort fait effet, elle ignore le malus de –6 à la Force, la Dextérité et la Constitution qui s'applique une fois qu'elle atteint le grand âge. Elle conserve les bonus liés à l'âge à l'Intelligence, la Sagesse et le Charisme tant qu'elle est sous l'effet de ce sort.",
+      "frFR": "La cible ignore les pénalités physiques dues à l'âge. Ce sort ne lui donne pas l'air plus jeune et ne l'empêche pas non plus de mourir de vieillesse, mais tant que le sort fait effet, elle ignore le malus de –6 à la Force, la Dextérité et la Constitution qui s'applique une fois qu'elle devient l'âge vénérable. Elle conserve les bonus liés à l'âge à l'Intelligence, la Sagesse et le Charisme tant qu'elle est sous l'effet de ce sort.",
       "zhCN": "这个法术类似次级岁月抵抗 (Age Resistance, Lesser)，不过它可以抵消掉中年、老年和暮年的力量、敏捷和体质罚值。",
       "esES": null
     },
@@ -502,7 +502,7 @@
       "enGB": "You ignore the physical detriments of being middle-aged. This spell does not cause you to look younger, nor does it prevent you from dying of old age, but as long as the spell is in effect, you ignore the –1 penalties to Strength, Dexterity, and Constitution that accrue once you become middle-aged. You retain the age-related bonuses to Intelligence, Wisdom, and Charisma while under the effects of this spell. Additional penalties that you accrue upon becoming old or venerable apply in full.",
       "ruRU": "Вы игнорируете физические недостатки среднего возраста. Это заклинание не заставляет вас выглядеть моложе и не предотвращает смерть от старости, но пока действует заклинание, вы игнорируете штрафы -1 к Силе, Ловкости и Выносливости, которые начисляются, когда вы достигаете среднего возраста. Под действием этого заклинания вы сохраняете бонусы к Интеллекту, Мудрости и Харизме. Дополнительные штрафы, которые вы получаете, когда становитесь старым или престарелым, применяются в полном объеме.",
       "deDE": null,
-      "frFR": "La cible ignore les pénalités physiques dues au fait d'avoir atteint l'âge mûr. Ce sort ne lui donne pas l'air plus jeune et ne l'empêche pas non plus de mourir de vieillesse, mais tant que le sort fait effet, elle ignore le malus de –1 à la Force, la Dextérité et la Constitution qui s'applique une fois qu'elle atteint le grand âge. Elle conserve les bonus liés à l'âge à l'Intelligence, la Sagesse et le Charisme tant qu'elle est sous l'effet de ce sort. Les malus supplémentaires qui viennent avec l’âge avancé et vénérable s’appliquent en totalité.",
+      "frFR": "La cible ignore les pénalités physiques dues au fait d'avoir atteint l'âge mûr. Ce sort ne lui donne pas l'air plus jeune et ne l'empêche pas non plus de mourir de vieillesse, mais tant que le sort fait effet, elle ignore le malus de –1 à la Force, la Dextérité et la Constitution qui s'applique une fois qu'elle atteint l'âge mûr. Elle conserve les bonus liés à l'âge à l'Intelligence, la Sagesse et le Charisme tant qu'elle est sous l'effet de ce sort. Les malus supplémentaires qui viennent avec l’âge avancé et vénérable s’appliquent en totalité.",
       "zhCN": "你可以忽略中年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续中，你就能忽略你步入中年时获得的-1的力量、敏捷和体质罚值。\n在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。老年和暮年阶段的追加减值仍然会完整保留。",
       "esES": null
     },
@@ -601,7 +601,7 @@
       "enGB": "You gain an animal companion as if you were a druid of your character level –3. Unlike normal animals of its kind, an animal companion's Hit Dice, abilities, skills, and feats advance as you advance in level.",
       "ruRU": "У персонажа появляется верный зверь, как если бы он был друидом с эффективным уровнем -3. В отличие от остальных животных того же вида, у верного зверя увеличивается количество костей здоровья, характеристики и навыки по мере роста уровня его хозяина.",
       "deDE": null,
-      "frFR": "Le personnage gagne un compagnon animal comme s'il était un druide de son niveau -3. Les dés de vies, capacités, compétences et dons s'améliorent lorsque le personnage gagne un niveau.",
+      "frFR": "Le personnage gagne un compagnon animal comme s'il était un druide de son niveau -3. Ses dés de vies, capacités, compétences et dons s'améliorent lorsque le personnage gagne un niveau.",
       "zhCN": "你获得动物伙伴，如同你是你的人物等级-3的德鲁伊。动物伙伴的等级、能力、专长可以正常随你的人物等级成长。",
       "esES": null
     },
@@ -4088,7 +4088,7 @@
       "enGB": "Destined",
       "ruRU": "Судьбоносное наследие",
       "deDE": null,
-      "frFR": "Destinée",
+      "frFR": "Destiné",
       "zhCN": "命运血承",
       "esES": null
     },
@@ -12998,7 +12998,7 @@
       "enGB": "You have graduated from one of the many colleges, universities, and specialized schools of higher learning scattered throughout the Inner Sea region.\nYou get a +2 bonus on Knowledge (Arcana) and Knowledge (World) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
       "ruRU": "Вы закончили обучение в одной из многих коллегий, университетов или высших школ, разбросанных по территориям Внутреннего моря.\nВы получаете бонус +2 к проверкам навыков Знание (Магия) и Знание (Мир). Если у вас 10 или более уровней в одном из этих навыков, бонус к этому навыку увеличивается до +4.",
       "deDE": null,
-      "frFR": "Le personnage a suivi les cours de l'une des nombreuses académies ou universités de la région de la Mer Intérieure.\nIl obtient un bonus de +2 aux tests d'Érudition (Arcanes) et d'Érudition (Monde). S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour cette compétence.",
+      "frFR": "Le personnage a suivi les cours de l'une des nombreuses académies ou universités de la région de la Mer Intérieure.\nIl obtient un bonus de +2 aux tests d'Érudition (Arcanes) et d'Érudition (Monde). S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour chacune de ces compétences.",
       "zhCN": "你已经从分散在内海地区的众多学院、大学和高等专业学校中的一所毕业。\n你在知识（神秘）和知识（世界）上获得+2加值，若其中某一技能等级达到10级或以上，对该技能的加值改为+4。",
       "esES": null
     },
@@ -13141,7 +13141,7 @@
       "enGB": "You know how to get along in the wild and how to effectively treat wounds.\nYou get a +2 bonus on Lore (Nature) and Lore (Religion) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
       "ruRU": "Вы знаете, как в одиночку выживать в диких землях и обрабатывать собственные раны.\nВы получаете бонус +2 к проверкам навыков Знание (Природа) и Знание (Религия). Если у вас 10 или больше уровней в одном из этих навыков, бонус к этому навыку увеличивается до +4.",
       "deDE": null,
-      "frFR": "Le personnage sait s'en sortir en milieu sauvage et soigner efficacement les blessures.\nIl obtient un bonus de +2 aux tests de Connaissance (Nature) et de Connaissance (Religion). S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour cette compétence.",
+      "frFR": "Le personnage sait s'en sortir en milieu sauvage et soigner efficacement les blessures.\nIl obtient un bonus de +2 aux tests de Connaissance (Nature) et de Connaissance (Religion). S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour chacune de ces compétences.",
       "zhCN": "你知道如何在野外生存，也知道如何有效地治疗伤口。\n你在学识（自然）和学识（宗教）上获得+2加值，若其中某一技能等级达到10级或以上，对该技能的加值改为+4。",
       "esES": null
     },
@@ -13317,7 +13317,7 @@
       "enGB": "Many of those who dwell among the rooftops become skillful at making bounding leaps and clambering up steep surfaces, and learn how to land more safely when they fall.\nYou get a +2 bonus on Athletics and Mobility skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
       "ruRU": "Многие из тех, чья жизнь проходит в беготне по крышам, приобретают умение совершать далёкие прыжки и взбираться по отвесным стенам, а также лучше приземляться после падений.\n Вы получаете бонус +2 к проверкам Ателтики и Подвижности. Если у вас 10 или больше уровней в одном и этих навыков, бонус к этому навыку увеличивается до +4.",
       "deDE": null,
-      "frFR": "Nombreux sont ceux qui vivent sur les toits et deviennent habiles à faire des bonds et à grimper sur des surfaces escarpées, et apprennent à atterrir plus sûrement en cas de chute.\nLe personnage obtient un bonus de +2 aux tests d'Athlétisme et de Mobilité. S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour cette compétence.",
+      "frFR": "Nombreux sont ceux qui vivent sur les toits et deviennent habiles à faire des bonds et à grimper sur des surfaces escarpées, et apprennent à atterrir plus sûrement en cas de chute.\nLe personnage obtient un bonus de +2 aux tests d'Athlétisme et de Mobilité. S'il possède 10 rangs ou plus dans l'une de ces compétences, ce bonus passe à +4 pour chacune de ces compétences.",
       "zhCN": "许多栖身于屋顶上的人可以熟练地跳跃和爬上陡峭的表面，并学会如何在跌落时更安全地着陆。\n你在运动和灵巧上获得+2加值，若其中某一技能等级达到10级或以上，对该技能的加值改为+4。",
       "esES": null
     },
@@ -14340,7 +14340,7 @@
       "enGB": "You are able to navigate the streets and personalities of whatever locale you run across.\nYou get a +2 bonus on Knowledge (World) and Perception skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
       "ruRU": "Вы прекрасно находите дорогу в хитросплетениях улочек и разума проживающего там народа.\nВы получаете бонус +2 на проверках навыков Знание (мир) и Внимание. Если у вас 10 или более уровней в одном из этих навыков, бонус к этому навыку увеличивается до +4.",
       "deDE": null,
-      "frFR": "Le personnage est capable de s'orienter dans les rues et de cerner les personnalités de n'importe quel endroit où il se trouve.\nIl gagne un bonus de +2 aux tests de Connaissances (Monde) et de Perception. S'il possède au moins 10 rangs dans l'une de ces compétences, le bonus passe à +4 pour cette compétence.",
+      "frFR": "Le personnage est capable de s'orienter dans les rues et de cerner les personnalités de n'importe quel endroit où il se trouve.\nIl gagne un bonus de +2 aux tests de Connaissances (Monde) et de Perception. S'il possède au moins 10 rangs dans l'une de ces compétences, le bonus passe à +4 pour chacune de ces compétences.",
       "zhCN": "无论你身在何处，都能确定每一条街道的位置，熟悉这些街区的住民性格。\n你在知识（世界）和察觉上获得+2加值，若其中某一技能等级达到10级或以上，对该技能的加值改为+4。",
       "esES": null
     },
@@ -14505,7 +14505,7 @@
       "enGB": "Fortitude partial/Relex half",
       "ruRU": "Спасбросок Стойкости частично/Реакции половина",
       "deDE": null,
-      "frFR": "Vigueur, partiel/Réflexes demi-dégâts",
+      "frFR": "Vigueur (partiel), Réflexes (demi-dégâts)",
       "zhCN": "强韧 部分生效/反射 减半",
       "esES": null
     },
